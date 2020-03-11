@@ -1,7 +1,7 @@
 //input referrer id
 //Copy User ID From: Setting/More Setting/Diagnostic/ID
 const referrer = "5f5c7439-b7cf-4c1b-bb93-56d262866e6b";
-const timeToLoop = 10; 
+const timeToLoop = 10000000000; 
 const retryTimes = 5;
 // time sleep, currently rate limit might be apply to per min per ip
 const sleepSeconds = 60;
